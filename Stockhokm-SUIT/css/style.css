@@ -78,7 +78,7 @@ body{
     top: unset;
 
 }
-.Main-item{
+.Main-arrowUpDown{
     height: 10px;
     transform: rotate(180deg);
     opacity: 0.2;
@@ -97,26 +97,25 @@ body{
     margin-bottom: 35px;
 }
 
-.Main-link--arrow{
-    width: 10px;
+.Main-linkMore--arrow{
+    width: 14px;
     transform: rotate(-45deg);
+    padding: 3px;
 }
 
-.Main-link{
+.Main-linkMore{
     text-decoration: none;
     color: black;
     font-size: 10px;
     margin-top: 35px;
     margin-bottom: 45px;
-    
-}
-
-.Main-div{
     display: flex;
     justify-content: center;
     align-items: center;
 
+    
 }
+
 
 .Footer{
     display: flex;
@@ -125,13 +124,14 @@ body{
 }
 
 .Footer-derechos{
-    font-size: 5px;
+    font-size: 6px;
+    word-spacing: 0.8px;
 }
 
 .Footer-rrss{
     text-decoration: none;
     color: black;
-    font-size: 6px;
+    font-size: 7px;
     width: 150px;
     display: flex;
     justify-content: flex-end;
