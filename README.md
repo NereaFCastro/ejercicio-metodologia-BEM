@@ -1,6 +1,6 @@
 ## Ejercicio metodologías
 
-En este ejercicio se reproudicirán dos páginas webs a través de HTML y CSS. La primera de ellas, Stockholm BEM, lo haremos nombrando las clases de nuestro proyecto siguiendo la metodología del mismo nombre. En el caso de la segunda, lo haremos siguiendo la metodología SUIT. 
+En este ejercicio se reprodudicirán dos páginas webs usando HTML y CSS. El objetivo del ejercicio no recaerá únicamente en nuestra habilidad en el manejo de código para calcar las diferentes webs, si no que en cada una de ellas usaremos un tipo de metodología diferente para nombrar las clases de nuesto HTML. En la primera de ellas, Stockholm BEM, lo haremos nombrando las clases de nuestro proyecto siguiendo la metodología del mismo nombre. En el caso de la segunda, lo haremos siguiendo la metodología SUIT. 
 
 Las webs a recrear son las siguientes:
 
